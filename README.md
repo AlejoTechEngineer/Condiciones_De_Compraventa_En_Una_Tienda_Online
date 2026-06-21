@@ -1,3 +1,5 @@
+<div align="center">
+
 # Condiciones de Compraventa en una Tienda Online
 
 ![E-Commerce](https://img.shields.io/badge/E--Commerce-Legal-1565C0?style=for-the-badge)
@@ -6,6 +8,10 @@
 > Análisis y redacción de condiciones legales de compraventa para comercio electrónico bajo normativa española/EU.
 
 ## Descripción
+
+</div>
+
+---
 
 Proyecto de análisis jurídico y redacción de las **condiciones generales de contratación** para una tienda online conforme a la normativa española y europea: Ley de Servicios de la Sociedad de la Información (LSSI-CE), Directiva de Consumidores 2011/83/UE, Reglamento General de Protección de Datos (RGPD) y normativa de comercio electrónico.
 
@@ -30,3 +36,12 @@ Proyecto de análisis jurídico y redacción de las **condiciones generales de c
 
 **Asignatura:** Comercio Electrónico y Aspectos Legales · **Institución:** Ingeniería Informática
 **Autor:** Alejandro De Mendoza — Ingeniero Informático · Especialista Ingeniería de Software
+
+---
+
+## Autor
+
+**Alejandro De Mendoza**  
+Ingeniero Informático · Especialista en IA · Especialista en Ingeniería de Software · Máster en Arquitectura de Software
+
+[![GitHub](https://img.shields.io/badge/GitHub-AlejoTechEngineer-181717?style=for-the-badge&logo=github)](https://github.com/AlejoTechEngineer)
