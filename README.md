@@ -39,6 +39,21 @@ Proyecto de análisis jurídico y redacción de las **condiciones generales de c
 
 ---
 
+## Arquitectura
+
+```mermaid
+flowchart TD
+    A[Tienda Online - Comercio Electronico] --> B[Marco Normativo]
+    B --> C[Ley 1480/2011 - Estatuto del Consumidor Colombia]
+    B --> D[Decreto 1413/2018 - Comercio Electronico]
+    B --> E[RGPD / Habeas Data - Proteccion datos personales]
+    C & D & E --> F[Condiciones de Compraventa]
+    F --> G[Formacion del Contrato - Oferta y aceptacion electronica]
+    F --> H[Politica de Devoluciones - Derecho de retracto 5 dias]
+    F --> I[Resolucion de Controversias - SIC Colombia]
+    G & H & I --> J[Documento de Terminos y Condiciones]
+```
+
 ## Autor
 
 **Alejandro De Mendoza**  
