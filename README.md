@@ -25,20 +25,6 @@ Proyecto de análisis jurídico y redacción de las **condiciones generales de c
 6. **Garantías:** Conformidad del producto, plazos legales
 7. **Protección de datos:** Base legal, derechos ARCO-POL, DPO
 
-## Contenido del repositorio
-
-| Archivo | Descripción |
-|---|---|
-| `*.pdf` | Condiciones de compraventa completas |
-| `*.docx` | Documento editable con cláusulas |
-
-## Contexto académico
-
-**Asignatura:** Comercio Electrónico y Aspectos Legales · **Institución:** Ingeniería Informática
-**Autor:** Alejandro De Mendoza — Ingeniero Informático · Especialista Ingeniería de Software
-
----
-
 ## Arquitectura
 
 ```mermaid
@@ -53,6 +39,20 @@ flowchart TD
     F --> I[Resolucion de Controversias - SIC Colombia]
     G & H & I --> J[Documento de Terminos y Condiciones]
 ```
+
+## Contenido del repositorio
+
+| Archivo | Descripción |
+|---|---|
+| `*.pdf` | Condiciones de compraventa completas |
+| `*.docx` | Documento editable con cláusulas |
+
+## Contexto académico
+
+**Asignatura:** Comercio Electrónico y Aspectos Legales · **Institución:** Ingeniería Informática
+**Autor:** Alejandro De Mendoza — Ingeniero Informático · Especialista Ingeniería de Software
+
+---
 
 ## Autor
 
